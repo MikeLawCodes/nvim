@@ -1,5 +1,4 @@
 require("unhinged")
-print("hello")
 
 --colorScheme
 require('onedark').setup {
