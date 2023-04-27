@@ -10,7 +10,8 @@ return require('packer').startup(function(use)
 
 -- Colorscheme
 use('navarasu/onedark.nvim')
-
+use('shaunsingh/nord.nvim')
+use('ellisonleao/gruvbox.nvim')
 
 -- Telescope
   use {
